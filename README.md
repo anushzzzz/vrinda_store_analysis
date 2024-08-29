@@ -5,5 +5,5 @@ Analyzing data of a store to draw out useful insights to grow business
 
 <br>
 <b>To improve Sales:</b><br>
-Target <b><women/b> customers from <b>Maharashtra, UP, Karnataka</b> by introducing ads/offers on <b>Amazon, Myntra, Flipkart</b>
+Target <b>women</b> customers from <b>Maharashtra, UP, Karnataka</b> by introducing ads/offers on <b>Amazon, Myntra, Flipkart</b>
 
